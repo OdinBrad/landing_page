@@ -1,0 +1,23 @@
+[33mcommit 26b3d57356e85c81eeb1b2da7fad3776607a7081[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Brad McAuliffe <mbraddles@gmail.com>
+Date:   Tue Jan 28 21:37:52 2025 +1100
+
+    Start fro scratch: fix quote and footer
+
+[33mcommit d1fe1eb177a0d281d36e69a23f5d33e3c1557103[m
+Author: Brad McAuliffe <mbraddles@gmail.com>
+Date:   Mon Jan 27 20:24:16 2025 +1100
+
+    updated content and downloaded images to use
+
+[33mcommit 6477966740b6256e8f1739c9f4c19513a17391fa[m
+Author: Brad McAuliffe <mbraddles@gmail.com>
+Date:   Mon Jan 27 15:57:30 2025 +1100
+
+    created index.html and styles.css
+
+[33mcommit 131ae916dadf47341fa1398fdc0f92788f1bd5b0[m
+Author: OdinBrad <195218745+OdinBrad@users.noreply.github.com>
+Date:   Mon Jan 27 15:49:12 2025 +1100
+
+    Initial commit

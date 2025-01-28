@@ -6,6 +6,34 @@ body {
     background-color: #1f2937;
 }
 
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 32px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    padding: 16px;
+}
+
+.links {
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-items: space-between;
+    
+}
+
+a {
+    display: flex;
+    padding: 16px;
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
 .footer {
     background-color: #1f2937;
     color: #e5e7eb;
